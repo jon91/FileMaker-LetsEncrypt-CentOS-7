@@ -1,5 +1,5 @@
 # FileMaker-LetsEncrypt-CentOS-7
-A bash script for fetching and renewing Let's Encrypt (certbot) certificates for FileMaker Server running Linux (CentOS 7).
+A bash script for fetching and renewing Let's Encrypt (certbot) certificates for FileMaker Server running Linux (CentOS7).
 
 ## ORIGINAL MAC VERSION FROM https://github.com/BlueFeatherGroup/FileMaker-LetsEncrypt-Mac
 
