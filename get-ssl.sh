@@ -1,6 +1,11 @@
 #!/bin/sh
 
+# ORIGINAL MAC VERSION FROM https://github.com/BlueFeatherGroup/FileMaker-LetsEncrypt-Mac
+
 # MODIFIED VERSION FROM https://the.fmsoup.org/t/use-of-free-letsencrypt-ssl-certificates-with-fms/1019/7
+# --- changed serverKey path
+
+
 
 # Change the domain variable to the domain/subdomain for which you would like
 # an SSL Certificate
@@ -18,7 +23,7 @@ FMPASS="fmConsolePassword"
 
 #
 # --- you shouldn't need to edit anything below this line
-# --- spoiler: we did below on serverKey path
+#
 
 WEB_ROOT="${SERVER_PATH}HTTPServer/htdocs"
 
