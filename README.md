@@ -24,7 +24,7 @@ sudo service fmshelper start
 ```
 
 
-#### ORIGINAL MAC VERSION FROM https://github.com/BlueFeatherGroup/FileMaker-LetsEncrypt-Mac
+Original Script (Mac): https://github.com/BlueFeatherGroup/FileMaker-LetsEncrypt-Mac
 
-#### MODIFIED VERSION FROM https://the.fmsoup.org/t/use-of-free-letsencrypt-ssl-certificates-with-fms/1019/7
+Modified with help from: https://the.fmsoup.org/t/use-of-free-letsencrypt-ssl-certificates-with-fms/1019/7
 ` --- changed serverKey path`
